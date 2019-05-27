@@ -1,0 +1,7 @@
+*.txt
+.vscode/
+test1.py
+test2.py
+*.log
+settings.py
+__pycache__/

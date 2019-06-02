@@ -5,3 +5,5 @@ test2.py
 *.log
 settings.py
 __pycache__/
+env/
+python.org.html

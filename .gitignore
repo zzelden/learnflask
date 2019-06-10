@@ -1,9 +1,4 @@
-*.txt
 .vscode/
-test1.py
-test2.py
-*.log
-settings.py
 __pycache__/
 env/
-python.org.html
+config.py
